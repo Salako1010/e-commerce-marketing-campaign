@@ -20,6 +20,12 @@ E-Commerce Marketing Campaign
 
 This project evaluates the impact of a marketing campaign using A/B testing on an e-commerce dataset. The goal is to determine whether exposing users to ads significantly improves conversion rates compared to a control group that saw either a public service announcement (PSA) or nothing. The analysis involves hypothesis testing to assess the statistical significance of any observed differences and to estimate potential revenue gains.
 
+<img width="659" alt="Ad seen" src="https://github.com/user-attachments/assets/43207673-a8bd-4bd4-8cc7-fe510c661aeb" />
+
+
+
+
+<img width="631" alt="conversion rate per hour" src="https://github.com/user-attachments/assets/6a3350fe-11b6-4acd-a416-6a83c2b1e336" />
 
 
 ### Data Sources
