@@ -4,10 +4,23 @@ E-Commerce Marketing Campaign
 
 ## Table of Contents
 
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results](#results)
+- [Recommendations](#recommendations)
+- [Limitations](#limitations)
+- [References](#references)
+
 
 ### Project Overview
 
 This project evaluates the impact of a marketing campaign using A/B testing on an e-commerce dataset. The goal is to determine whether exposing users to ads significantly improves conversion rates compared to a control group that saw either a public service announcement (PSA) or nothing. The analysis involves hypothesis testing to assess the statistical significance of any observed differences and to estimate potential revenue gains.
+
+
 
 ### Data Sources
 
@@ -41,7 +54,7 @@ The dataset contains the following fields:
 
 - Jupyter Notebook
 
-### Data Cleaning/Preparation
+### Data Cleaning
 
 - Loaded the dataset and inspected its structure
 
@@ -73,7 +86,7 @@ The dataset contains the following fields:
 
   -Control Group Revenue = Same formula applied to PSA group
 
-### Resuls/Findings
+### Results
 
 - Estimated Experimental Group Revenue: $288,460.00
 
@@ -103,9 +116,9 @@ The dataset contains the following fields:
 
 ### References
 
-[https://docs.scipy.org/doc/scipy/](scipy-t-test)
+[scipy-t-test](https://docs.scipy.org/doc/scipy/)
 
-[https://pandas.pydata.org/](#pandas-library)
+[pandas-library](https://pandas.pydata.org/)
 
-[https://numpy.org/](#numPy-library)
+[numPy-library](https://numpy.org/)
 
